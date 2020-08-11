@@ -20,7 +20,7 @@ footer-links:
   email: cjabbtech@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: ChrisJabb21/ChrisJabb21.github.io
   instagram:
   linkedin: https://www.linkedin.com/in/christopher-jabbour-01a43364/
   pinterest:
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: ChrisJabb21.github.io
+url: http://ChrisJabb21.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

@@ -13,3 +13,4 @@ A quote to end on a positive note about starting anything new and favorite of is
 
 ----
  For more information about Jekyll and the location of repository, head over to the [Jekyll Main repository](https://github.com/jekyll/jekyll) on GitHub.
+"%B %e, %Y"

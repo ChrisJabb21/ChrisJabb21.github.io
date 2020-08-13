@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Post
+title: Hello World
 ---
 ### First post
 This is my first blog post with Jekyll, a Open-Source static site generator made in the Ruby language. This blog is a platform for me to showcase and write about what I learn in Java full stack web development, some topics on cybersecurity, productivity, and awesome resources I found helpful in my learning and among my peers on my journey.

@@ -5,7 +5,7 @@ tag: ExpressJS, Java, JavaScript, Backend, Middleware, InfoSec
 author: Chris Jabbour
 ---
 
-Securing HTTP Headers in a web app provides a layer of protection can be configurated based on what is suitable for your app and security goals. It is done by setting up an app's HTTP response headers to prevent sensitive information being exposed when passed between a server and a client. On the development side We can use middleware modules such as with Spring Security that lets you automatically set and or specifically configure the headers for an application based .
+Securing HTTP Headers in a web app provides a layer of protection based on what is suitable for your app and security goals. It is done by setting up an app's HTTP response headers to prevent sensitive information being exposed when passed between a server and a client. We can use middleware modules that lets allows setting and configuring the response headers for a client-server based web application.
 
 ## :// Why bother with HTTP Headers?
 ---
